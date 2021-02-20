@@ -1,5 +1,5 @@
 # Starting to develop a videogames blog
 
-## double authentication (user, admin)
+## Spec. : double authentication (user, admin)
 
-## laravel, javascript, jquery
+## Techno. : laravel, javascript, jquery
