@@ -1,3 +1,5 @@
-# gamebox_local - Test project, starting to develop a videogames blog
+# Starting to develop a videogames blog
+
+## double authentication (user, admin)
 
 ## laravel, javascript, jquery
